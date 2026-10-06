@@ -1,0 +1,9 @@
+According to all known laws of software architecture, there is no way modern enterprise infrastructure should be able to run.
+
+Its maintenance team is too small—consisting of one unpaid volunteer in Nebraska—to get its bloated, fragile dependency tree off the ground.
+
+The system, of course, compiles anyway, because open source software doesn’t care what proprietary enterprise architects think is impossible.
+
+git pull, git push. git pull, git push. git pull, git push. git pull, git push.
+
+Ooh, merge conflict! Let’s force push to main!
